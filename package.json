@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/muryoh.plainjs-li1fsuf3",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 6dZYzjfwuBUZlRr9w9rS --open"
+  }
+}
